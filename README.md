@@ -1,4 +1,4 @@
-# Vishwkarma Library Management System
+# Shree Vishwkarma Library Management System
 
 A modern, responsive web application for managing library seating, student registrations, and fee collections. Built with React and Vite.
 
@@ -29,8 +29,8 @@ A modern, responsive web application for managing library seating, student regis
 
 1. **Clone the repository**
    ```bash
-   git clone <your-github-repo-url>
-   cd library-management
+   git clone https://github.com/proanujbamne/Shree_Vishwkarma_library.git
+   cd Shree_Vishwkarma_library
    ```
 
 2. **Install dependencies**
